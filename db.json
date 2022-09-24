@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Agriculture Product",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "title": "Garmen Product",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "title": "Furniture Product",
+      "price": 98000
+    },
+    {
+      "id": 4,
+      "title": "Electronic Product",
+      "price": 877
+    },
+    {
+      "id": 5,
+      "title": "Mining Product",
+      "price": "100"
+    }
+  ]
+}
